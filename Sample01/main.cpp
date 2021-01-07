@@ -9,5 +9,5 @@ int main(int argc, char *argv[])
 	hello.setWindowTitle("Hello World");
 	hello.resize(400, 400);
 	hello.show();
-	return app.exec();
+	return QApplication::exec();
 }

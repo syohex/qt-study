@@ -1,5 +1,7 @@
 .idea/
 .vscode/
+.vs/
+out/
 
 # CMake
 CMakeLists.txt.user
